@@ -6,7 +6,7 @@ export const initialState = {
     discover_weekly: null,
     top_artists: null,
     spotify: null,
-    //token: 'BQCB4zRSzZA8JfWdy4oZkzmawkm5CxEPtJVmnB3ovsuOJreC_IM9_61zQt2gqY7bgVBG34w65hRvo9IE_zE5kUQfw2W94pxcMaz6nuNHWYL63-spL8MzIjQJpvPsfTxI-M9Q7v6WMGJVxPogEJZUPEgZtK04uvqt5exnBrxrG3amPL6DfkxM',
+    token: 'aaa', // for deployment purposes
 };
 
 const reducer = (state, action) => {
